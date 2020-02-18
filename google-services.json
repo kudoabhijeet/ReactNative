@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11000803403",
+    "firebase_url": "https://parkassist-dfae6.firebaseio.com",
+    "project_id": "parkassist-dfae6",
+    "storage_bucket": "parkassist-dfae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11000803403:android:25d7644ebfe581cf",
+        "android_client_info": {
+          "package_name": "Parking.Scientist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11000803403-67l265ohkvupspn662venu0rfoc3ns0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeA3R8mS7EwrKqEhK9t-qvl5r6VVbAOFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
