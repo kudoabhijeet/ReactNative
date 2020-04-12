@@ -8,10 +8,10 @@ import Dash from './screens/DashScreen';
 import * as firebase from 'firebase';  // Initialize Firebase
 
 var fireBaseconfig = {
-    apiKey: "AIzaSyCXu9qloeHGr5r9TH2Z6x_la-cRgoefnxg",
-    authDomain: "parkassist-dfae6.firebaseapp.com",
-    databaseURL: "https://parkassist-dfae6.firebaseio.com/",
-    projectId: "parkassist-dfae6",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
     storageBucket: "",
     messagingSenderId: ""
     };
